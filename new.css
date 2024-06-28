@@ -1,0 +1,35 @@
+.s{
+    margin-left: 520px;
+    margin-right: 520px;
+    border: 8px dotted rgb(193, 12, 12);
+    background-color: yellow;
+  }
+  .d{
+    color: rgb(58, 137, 34);
+    padding-left: 168px;
+    padding-right: 168px;  
+  }
+  .e{
+    color: rgb(154, 29, 29);
+  }
+  #a{
+    color: brown;
+  }
+  #b{
+    color: blueviolet;
+  }
+  .q{
+    color: rgb(34, 3, 236);
+  }
+  .w{
+    color: rgb(255, 8, 193);
+  }
+  .f{
+    margin-right: 1200px;
+    border: 2px solid black;
+    
+  }
+  .o{
+    color: rgb(42, 165, 23);
+    padding-left: 10px;
+  }

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "picture"
+		},
+		{
+			"path": "Video"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Video"
+	}
+}
